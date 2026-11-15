@@ -1,0 +1,29 @@
+{
+  "fecha": "Agenda deportiva del 14 de noviembre de 2026",
+  "eventos": [
+    {
+      "hora": "21:00",
+      "enVivo": true,
+      "local": "Banfield",
+      "logoLocal": "https://a.espncdn.com/i/teamlogos/soccer/500/4807.png",
+      "visitante": "Boca Juniors",
+      "logoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+      "liga": "Liga Profesional Argentina",
+      "logoLiga": "https://a.espncdn.com/i/leaguelogos/soccer/500/1.png",
+      "canal": "ESPN Premium",
+      "url": "https://PEGA_AQUI_TU_LINK_M3U8_O_YOUTUBE"
+    },
+    {
+      "hora": "22:30",
+      "enVivo": false,
+      "local": "Nacional",
+      "logoLocal": "https://a.espncdn.com/i/teamlogos/soccer/500/2705.png",
+      "visitante": "Albion",
+      "logoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/21223.png",
+      "liga": "Primera División Uruguay",
+      "logoLiga": "https://a.espncdn.com/i/leaguelogos/soccer/500/152.png",
+      "canal": "VTV Plus",
+      "url": "https://PEGA_AQUI_TU_LINK_M3U8"
+    }
+  ]
+}
