@@ -8,14 +8,17 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports OP2
 https://streamtp99a.sbs/global1.php?stream=tntsports
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes",ESPN Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes",ESPN Premium OP2
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes",ESPN Premium OP2
 https://la18hd.su/vivo/canales.php?stream=espnpremium
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Deportes",DSports
 https://streamtp99a.sbs/global1.php?stream=dsports
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="Deportes",DSports 2
-https://tvf90.com/online.php?stream=tycsports
+https://la18hd.su/vivo/canales.php?stream=dsports2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="Deportes",DSports+
 https://tvf90.com/online.php?stream=dsportsplus
@@ -30,7 +33,7 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN
-http://190.61.47.54:8000/play/a004/index.m3u8
+https://la18hd.su/vivo/canales.php?stream=espn
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="Deportes",ESPN 2
 http://190.61.47.54:8000/play/a005/index.m3u8
