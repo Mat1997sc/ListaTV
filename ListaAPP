@@ -9,7 +9,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 https://streamtp99a.sbs/global1.php?stream=tntsports
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes",ESPN Premium
-https://la18hd.su/vivo/canales.php?stream=espn
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes",ESPN Premium OP2
 https://streamtp99a.sbs/global1.php?stream=espnpremium
@@ -18,7 +18,7 @@ https://streamtp99a.sbs/global1.php?stream=espnpremium
 https://la18hd.su/vivo/canales.php?stream=dsports2 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="Deportes",DSports 2
-https://la18hd.su/vivo/canales.php?stream=dsports2
+http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="Deportes",DSports+
 https://tvf90.com/online.php?stream=dsportsplus
@@ -36,10 +36,10 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 https://la18hd.su/vivo/canales.php?stream=espn
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="Deportes",ESPN 2
-http://190.61.47.54:8000/play/a005/index.m3u8
+http://181.78.211.244:8005/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/FOX_Sports_logo.svg" group-title="Deportes",Fox Sports
-http://158.172.155.130:8000/play/a09x/index.m3u8
+http://138.59.227.20:8000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Mat1997sc/ListaTV/blob/main/LOGO-CANAL26.png?raw=true" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -72,7 +72,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretenimiento",El Gourmet
-http://138.121.15.230:9002/EL-GOURMET/index.m3u8
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
 http://138.121.15.230:9002/A&E/index.m3u8
