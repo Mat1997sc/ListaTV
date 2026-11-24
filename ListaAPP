@@ -32,6 +32,9 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest?cb=20210919025821&path-prefix=es" group-title="Entretenimiento",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest?cb=20210919025821&path-prefix=es" group-title="Entretenimiento",Telefe OP2
+http://45.173.231.22:8000/play/a053/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN
 https://la18hd.su/vivo/canales.php?stream=espn
 
@@ -402,5 +405,73 @@ https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://wocarp.com/wp-content/uploads/2023/03/wild-logo-original.webp" group-title="Documentales",Xphere Wild
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932v" group-title="Entretenimiento",Universal Cinema
+http://45.167.1.138:8000/play/a06m
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/WarnerChannelLatAm2026.svg/revision/latest?cb=20260408152548&path-prefix=es" group-title="Entretenimiento",Warner Channel
+http://38.134.250.110:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest?cb=20220325004838&path-prefix=es" group-title="Entretenimiento",Cinecanal Colombia
+http://190.61.47.54:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/TNT_Series_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250918154553" group-title="Prueba",TNT Series
+http://190.93.224.42/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Tastemade_2018.svg/revision/latest?cb=20211026210358" group-title="Prueba",Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/A24_2025.svg/revision/latest?cb=20250110233152" group-title="Prueba",A24 SD
+http://138.59.227.20:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediaprd.adrenalinapura.com/wp-content/uploads/2025/03/19131457/logo-adrenalina-pura.svg" group-title="Prueba",Adrenalina Pura
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/AMC_Series_Logo_2025.svg/revision/latest/scale-to-width-down/1000?cb=20251101173400" group-title="Prueba",AMC Series
+http://45.171.64.30:6060/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Am%C3%A9rica_TV_logo.svg/revision/latest?cb=20200801162239" group-title="Prueba",América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.andestvco.com/wp-content/uploads/2018/04/cropped-cropped-logo-full-1-1-1.png" group-title="Prueba",Andes TV
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2025-11/Best%20Clasicos%20TV-Costa-Rica.png.webp?itok=FHHqx-lM" group-title="Prueba",Best Clasicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Discovery_H%26H_2026_stacked.svg/revision/latest?cb=20260304205114" group-title="Prueba",Discovery Home & Health
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/2015_Discovery_theater_HD_logo.svg/revision/latest?cb=20180303033620" group-title="Prueba",Discovery Theater
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_%282015%29.svg/revision/latest?cb=20210911120727" group-title="Prueba",Eurosport
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" group-title="Prueba",Eurosport 2
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Golden_Edge.svg/revision/latest?cb=20260408181846" group-title="Prueba",Golden Edge
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" group-title="Prueba",Lifetime
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034" group-title="Prueba",National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/NTN24_logo.svg.png/revision/latest/scale-to-width-down/1000?cb=20230501224945" group-title="Prueba",NTN24
+https://stream1.bitred.cl/ntn24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Studio_Universal_2016.svg/revision/latest?cb=20160424062945" group-title="Entretenimiento",Studio Universal
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/ElOnceTV_Salta_2023.svg/revision/latest?cb=20230929221320" group-title="Prueba",Canal 11 Salta (Telefe)
+https://canal11saltatv.unpocodeawita.workers.dev
+
+#EXTINF:-1 tvg-logo="https://images.produ.com/wp-content/uploads/2026/08/27144749/bigwp-TyCSportsFanlogo-948x594.jpg" group-title="Prueba",TyC Sports Fan
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+
 
 
