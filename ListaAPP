@@ -87,7 +87,7 @@ http://181.78.8.199:8000/play/a0cu/index.m3u8
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretenimiento",Cinecanal
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+http://138.121.15.230:9002/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="Entretenimiento",CSI: Miami
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
