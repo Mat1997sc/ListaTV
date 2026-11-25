@@ -117,7 +117,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="Documentales",History 2
-http://15.204.246.24:8080/HistoryHD/index.m3u8
+http://181.225.190.242:8000/play/a023
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/AMC2019.png" group-title="Entretenimiento",AMC en Español
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
