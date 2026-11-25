@@ -454,5 +454,14 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png" group-title="Entretenimiento",Maxcine
 https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="Entretenimiento",Maxcine 2
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208730.png" group-title="Entretenimiento",Maxcine Comedy
+https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208817.png" group-title="Entretenimiento",Maxcine Family
+https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
+
 
 
