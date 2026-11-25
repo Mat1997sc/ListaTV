@@ -18,7 +18,7 @@ https://streamtp99a.sbs/global1.php?stream=espnpremium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Deportes",DSports
-https://la18hd.su/vivo/canales.php?stream=dsports2 
+http://45.186.254.75:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="Deportes",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
