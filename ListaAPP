@@ -78,7 +78,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretenimiento",El Gourmet
-https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+https://iptv.bitred.cl/ELGOURMET_HD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
 http://138.121.15.230:9002/A&E/index.m3u8
