@@ -407,7 +407,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 https://streamtp99a.sbs/global1.php?stream=tntsports
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest?cb=20160514054656" group-title="Cartoons",Tooncast
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Deportes",TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
