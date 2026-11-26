@@ -1,0 +1,31 @@
+name: ListaAPP
+
+on:
+  push:
+    paths:
+      - 'lista.m3u' # Cambia esto si tu archivo tiene otro nombre
+
+permissions:
+  contents: write
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Ejecutar script de ordenamiento
+        run: python ordenar.py
+
+      - name: Guardar lista ordenada
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "github-actions[bot]"
+          git add lista.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Ordenar canales alfabéticamente" && git push)
