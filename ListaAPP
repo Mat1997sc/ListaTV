@@ -447,3 +447,18 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/def4d6a960fc00da49db5898c4a41e48.webp" group-title="Cartoons",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Canal6digital.gif/revision/latest?cb=20210526131102&path-prefix=es" group-title="Noticias",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/500px-Canal_5_Mexico_logo_2014.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Sports",Canal 5
+https://streamx99.com/drm/canal5.php
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",TUDN
+https://streamx723.sbs/global1.php?channel=tudnmx
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" group-title="Entretenimiento",HGTV
+http://38.87.224.19:2220/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/CanalMetrologo.png" group-title="Entretenimiento",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
